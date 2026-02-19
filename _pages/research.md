@@ -3,6 +3,11 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
+<style>
+  .page__footer-follow, .page__footer-copyright, .site-footer {
+    display: none !important;
+  }
+</style>
   
 My research primarily focuses on understanding how liquidity frictions and institutional constraints affect risk premia and tail risk, shaping both asset prices and the cross-section of expected returns, particulaly their applications to the energy transition and energy-sector shocks.
 
