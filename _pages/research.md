@@ -13,7 +13,7 @@ My research primarily focuses on understanding how liquidity frictions and insti
 ## **Academic Research Experience**
 
 ### **Changes in the Distribution of Earnings Volatility**
-The Journal of Human Resources* (Vol. 50, No. 3, 2015)  
+The Journal of Human Resources (Vol. 50, No. 3, 2015)  
 Graduate Research Assistant to Professor Stephen H. Shore.
 
 
