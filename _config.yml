@@ -243,6 +243,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      footer: false
       read_time: true
       comments: true
       share: true
@@ -254,6 +255,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      footer: false
   # _teaching
   - scope:
       path: ""
@@ -261,6 +263,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      footer: false
       share: true
       comments: true
   # _publications
@@ -270,6 +273,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      footer: false
       share: true
       comments: true
   # _portfolio
@@ -279,6 +283,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      footer: false
       share: true
       comment: true
   # _talks
@@ -288,6 +293,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
+      footer: false
       share: true
 
 
