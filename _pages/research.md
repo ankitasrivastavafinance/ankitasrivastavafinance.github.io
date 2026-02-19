@@ -13,8 +13,8 @@ My research primarily focuses on understanding how liquidity frictions and insti
 ## **Academic Research Experience**
 
 ### **Changes in the Distribution of Earnings Volatility**
-*The Journal of Human Resources* (Vol. 50, No. 3, 2015)
-*Graduate Research Assistant to Professor Stephen H. Shore.
+The Journal of Human Resources* (Vol. 50, No. 3, 2015)  
+Graduate Research Assistant to Professor Stephen H. Shore.
 
 
 ---
@@ -22,12 +22,12 @@ My research primarily focuses on understanding how liquidity frictions and insti
 ## **Industry & Applied Research**
 
 ### **Internal Research Note: PNC US REIT Index Replication**
-*PNC Financial Services Group (2017).
-*Proposed a scalable replication framework for the MSCI US REIT Index.
+PNC Financial Services Group (2017).  
+Proposed a scalable replication framework for the MSCI US REIT Index.
 
 
 ---
 
 ## **Work in Progress**
-*Quantitative Portfolio Construction: Developing frameworks that integrate market frictions and liquidity constraints into traditional asset allocation models.
-*Modernizing Quantitative Pedagogy:Researching the integration of computational finance and financial modeling into undergraduate curriculum to improve student career outcomes in risk management.
+Quantitative Portfolio Construction: Developing frameworks that integrate market frictions and liquidity constraints into traditional asset allocation models.  
+Modernizing Quantitative Pedagogy:Researching the integration of computational finance and financial modeling into undergraduate curriculum to improve student career outcomes in risk management.
