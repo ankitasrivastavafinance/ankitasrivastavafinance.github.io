@@ -10,11 +10,4 @@ location: "Waltham, MA"
 
 Evidence of Teaching effectiveness : 5.4/6.0
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is an introductory course in finance. Topics include the principles of time value of money, the risk/return tradeoff, corporate finance, personal finance, and investments. The course also introduces basic applications of financial statements for decision making.
