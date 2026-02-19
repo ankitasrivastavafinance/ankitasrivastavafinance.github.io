@@ -3,7 +3,11 @@ layout: single
 permalink: /teaching/
 author_profile: true
 ---
-
+<style>
+  .page__title {
+    display: none;
+  }
+</style>
 
 # _FI 118: Introduction to Finance_
 **Spring 2025 Undergraduate course, Bentley University, Finance Department**
