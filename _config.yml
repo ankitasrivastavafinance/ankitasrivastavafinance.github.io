@@ -366,4 +366,4 @@ compress_html:
     envs: development
 # Footer Settings
 footer:
-  links:
+  links:  []
