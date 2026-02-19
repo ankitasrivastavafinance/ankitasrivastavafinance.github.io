@@ -4,7 +4,6 @@ collection: teaching
 type: "Spring 2025 Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Bentley University, Finance Department"
-# date: 2025-1-1
 location: "Waltham, MA"
 ---
 
