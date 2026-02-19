@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching
 
 ## FI 118: Introduction to Finance
 **Spring 2025 Undergraduate course, Bentley University, Finance Department, 1900**
