@@ -7,7 +7,12 @@ author_profile: true
   .page__title {
     display: none;
   }
+  .page__footer-follow, .page__footer-copyright, .site-footer {
+    display: none !important;
+  }
+  
 </style>
+
 
 # _FI 118: Introduction to Finance_
 **Spring 2025 Undergraduate course, Bentley University, Finance Department**
