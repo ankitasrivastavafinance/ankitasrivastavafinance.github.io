@@ -1,10 +1,10 @@
 ---
 title: "FI 118: Introduction to Finance"
 collection: teaching
-type: "Undergraduate course"
+type: "Spring 2025 Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "Bentley University, Finance Department"
-date: 2025-1-1
+#date: 2025-1-1
 location: "Waltham, MA"
 ---
 
