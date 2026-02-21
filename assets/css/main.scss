@@ -125,3 +125,24 @@ a:hover {
 .page__inner {
   padding-right: 5% !important;
 }
+
+/* --- Teaching Page: Course Name Refinement --- */
+
+/* Targets the course names (H3 and H4) within the content area */
+.page__content h3, 
+.page__content h4 {
+  font-family: "Inter", sans-serif !important;
+  font-size: 1rem !important; /* Matches standard body font size */
+  font-weight: 600 !important; /* Keeps it distinct but not overwhelming */
+  margin-top: 1.2em !important;
+  margin-bottom: 0.3em !important;
+  color: #333 !important;
+  text-transform: none !important; /* Prevents unwanted all-caps */
+}
+
+/* Adjusts the spacing of the list items below the course names */
+.page__content ul {
+  font-size: 0.95rem !important;
+  line-height: 1.5 !important;
+  margin-top: 0 !important;
+}
