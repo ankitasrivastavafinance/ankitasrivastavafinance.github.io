@@ -41,24 +41,18 @@
     -webkit-border-radius: 0 !important;
     -moz-border-radius: 0 !important;
 }
-/* Academic Research Page Styling */
-.page__content, .archive {
+/* Brute Force Academic Styling */
+body, p, li, .page__content, .archive {
   font-family: "Lora", "Georgia", "Times New Roman", serif !important;
-  font-size: 0.95rem !important; /* Makes the font slightly smaller and sharper */
-  line-height: 1.6;             /* Increases readability for research abstracts */
-  color: #333;                 /* Professional dark grey/black */
+  font-size: 14px !important; /* Forces a specific size */
+  line-height: 1.6 !important;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* Specifically styling Publication Titles */
-.archive__item-title {
+/* Specific fix for Publication Titles */
+h2.archive__item-title, .archive__item-title a {
   font-family: "Lora", "Georgia", serif !important;
-  font-size: 1.2rem !important;
-  font-weight: 600;
-  margin-bottom: 0.5em;
-}
-
-/* Styling for Publication metadata (Date, Journal name) */
-.archive__item-excerpt {
-  font-size: 0.85rem !important;
-  color: #666;
+  font-size: 1.1rem !important;
+  font-weight: bold !important;
+  color: #111 !important;
 }
