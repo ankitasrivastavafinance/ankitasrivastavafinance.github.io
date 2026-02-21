@@ -14,3 +14,14 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.getElementsByTagName('a');
+    for (var i = 0; i < links.length; i++) {
+      if (links[i].href.toLowerCase().endsWith('.pdf')) {
+        links[i].setAttribute('target', '_blank');
+        links[i].setAttribute('rel', 'noopener noreferrer');
+      }
+    }
+  });
+</script>
