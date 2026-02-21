@@ -25,6 +25,7 @@ main:
     
   - title: "CV"
     url: /assets/pdf/Ankita_Srivastava_CV.pdf
+    target: "_blank"
     
   # - title: "CV"
   #   url: /cv-json/
