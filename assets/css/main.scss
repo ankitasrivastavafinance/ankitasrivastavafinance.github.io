@@ -146,3 +146,13 @@ a:hover {
   line-height: 1.5 !important;
   margin-top: 0 !important;
 }
+/* Specific override for Teaching Course Titles */
+.page__content h3 {
+  font-size: 1.15rem !important; /* Almost same as body text */
+  font-family: "Inter", sans-serif !important;
+  font-weight: 700 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0.5rem !important;
+  color: #000 !important;
+  font-style: normal !important; /* Removes the italics if you want it cleaner */
+}
