@@ -41,6 +41,9 @@
     border-radius: 0 !important;
     -webkit-border-radius: 0 !important;
     -moz-border-radius: 0 !important;
+    width: 250px !important;  /* Adjust this number as needed */
+    height: auto !important;  /* Maintains aspect ratio */
+    max-width: none !important; /* Prevents the container from shrinking it */
 }
 /* Brute Force Academic Styling */
 body, p, li, .page__content, .archive {
