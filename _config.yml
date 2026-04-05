@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ankita Srivastava"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ankita Srivastava"
 description              : &description "Ankita Srivastava's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "175 Forest St, Waltham, MA"
   employer         : "Bentley University"
   uri              : # URL
-  email            : "asrivastava2@bentley.edu" 
+  email            : "ankita.hbti@gmail.com" 
 
   # Academic websites
   #academia         : # URL
